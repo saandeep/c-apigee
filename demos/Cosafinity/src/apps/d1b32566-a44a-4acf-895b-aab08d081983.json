@@ -1,0 +1,35 @@
+{
+  "accessType" : "",
+  "apiProducts" : [ ],
+  "appFamily" : "default",
+  "appId" : "d1b32566-a44a-4acf-895b-aab08d081983",
+  "attributes" : [ {
+    "name" : "DisplayName",
+    "value" : "weatherapp"
+  }, {
+    "name" : "Notes",
+    "value" : ""
+  } ],
+  "callbackUrl" : "",
+  "createdAt" : 1454028742268,
+  "createdBy" : "sandeep@apigee.com",
+  "credentials" : [ {
+    "apiProducts" : [ {
+      "apiproduct" : "SilverPartners",
+      "status" : "approved"
+    } ],
+    "attributes" : [ ],
+    "consumerKey" : "mLVsrvRzyFNoHiyPcOjrFE9137UUHBjA",
+    "consumerSecret" : "9YQ93obcN2ZhbWJO",
+    "expiresAt" : -1,
+    "issuedAt" : 1454028742344,
+    "scopes" : [ ],
+    "status" : "approved"
+  } ],
+  "developerId" : "7PmmPJBbVAo7S6A6",
+  "lastModifiedAt" : 1454028742268,
+  "lastModifiedBy" : "sandeep@apigee.com",
+  "name" : "weatherapp",
+  "scopes" : [ ],
+  "status" : "approved"
+}

@@ -1,0 +1,33 @@
+{
+  "apiResources" : [ "/**", "/" ],
+  "approvalType" : "auto",
+  "attributes" : [ {
+    "name" : "description",
+    "value" : "Accounts Product"
+  }, {
+    "name" : "developer.quota.limit",
+    "value" : "10000"
+  }, {
+    "name" : "developer.quota.interval",
+    "value" : "1"
+  }, {
+    "name" : "developer.quota.timeunit",
+    "value" : "month"
+  }, {
+    "name" : "access",
+    "value" : "public"
+  } ],
+  "createdAt" : 1454024643953,
+  "createdBy" : "sandeep@apigee.com",
+  "description" : "Accounts Product",
+  "displayName" : "Accounts Product",
+  "environments" : [ "test", "prod" ],
+  "lastModifiedAt" : 1454024643953,
+  "lastModifiedBy" : "sandeep@apigee.com",
+  "name" : "Accounts-Product",
+  "proxies" : [ "Accounts" ],
+  "quota" : "10000",
+  "quotaInterval" : "1",
+  "quotaTimeUnit" : "month",
+  "scopes" : [ ]
+}

@@ -1,0 +1,35 @@
+{
+  "accessType" : "",
+  "apiProducts" : [ ],
+  "appFamily" : "default",
+  "appId" : "945c85fc-0e96-4f37-8792-5245e32e8154",
+  "attributes" : [ {
+    "name" : "DisplayName",
+    "value" : "apiconsole"
+  }, {
+    "name" : "Notes",
+    "value" : ""
+  } ],
+  "callbackUrl" : "",
+  "createdAt" : 1454028849699,
+  "createdBy" : "sandeep@apigee.com",
+  "credentials" : [ {
+    "apiProducts" : [ {
+      "apiproduct" : "SilverPartners",
+      "status" : "approved"
+    } ],
+    "attributes" : [ ],
+    "consumerKey" : "RyKxQkJKCyHsfYH8yMBkz8QAh3u1dZGp",
+    "consumerSecret" : "CN8EMAbNeObF7Q7q",
+    "expiresAt" : -1,
+    "issuedAt" : 1454028849743,
+    "scopes" : [ ],
+    "status" : "approved"
+  } ],
+  "developerId" : "MpkQJ7W3ccevJfey",
+  "lastModifiedAt" : 1454028849699,
+  "lastModifiedBy" : "sandeep@apigee.com",
+  "name" : "apiconsole",
+  "scopes" : [ ],
+  "status" : "approved"
+}

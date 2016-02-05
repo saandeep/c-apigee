@@ -1,0 +1,22 @@
+{
+  "apps" : [ ],
+  "companies" : [ ],
+  "email" : "tesla@weathersample.com",
+  "developerId" : "96n0rWkoz2tVtUEQ",
+  "firstName" : "Nikolai",
+  "lastName" : "Tesla",
+  "userName" : "Nikolai",
+  "organizationName" : "amer-partner10",
+  "status" : "active",
+  "attributes" : [ {
+    "name" : "MINT_BILLING_TYPE",
+    "value" : "PREPAID"
+  }, {
+    "name" : "MINT_DEVELOPER_TYPE",
+    "value" : "UNTRUSTED"
+  } ],
+  "createdAt" : 1454025412981,
+  "createdBy" : "sandeep@apigee.com",
+  "lastModifiedAt" : 1454025412981,
+  "lastModifiedBy" : "sandeep@apigee.com"
+}

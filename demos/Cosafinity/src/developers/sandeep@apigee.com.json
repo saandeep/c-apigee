@@ -1,0 +1,34 @@
+{
+  "apps" : [ "apiconsole", "Store-Printing-Test-App" ],
+  "companies" : [ ],
+  "email" : "sandeep@apigee.com",
+  "developerId" : "MpkQJ7W3ccevJfey",
+  "firstName" : "Sandeep",
+  "lastName" : "Murusupalli",
+  "userName" : "sandeep@apigee.com",
+  "organizationName" : "amer-partner10",
+  "status" : "active",
+  "attributes" : [ {
+    "name" : "MINT_COMPANY_ID"
+  }, {
+    "name" : "MINT_BILLING_TYPE",
+    "value" : "PREPAID"
+  }, {
+    "name" : "MINT_DEVELOPER_LEGAL_NAME"
+  }, {
+    "name" : "MINT_REGISTRATION_ID"
+  }, {
+    "name" : "MINT_TAX_EXEMPT_AUTH_NO"
+  }, {
+    "name" : "MINT_DEVELOPER_PHONE"
+  }, {
+    "name" : "MINT_DEVELOPER_CATEGORY"
+  }, {
+    "name" : "MINT_DEVELOPER_TYPE",
+    "value" : "UNTRUSTED"
+  } ],
+  "createdAt" : 1454028729258,
+  "createdBy" : "sandeep@apigee.com",
+  "lastModifiedAt" : 1454028729258,
+  "lastModifiedBy" : "sandeep@apigee.com"
+}

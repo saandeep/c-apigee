@@ -1,0 +1,40 @@
+{
+  "apps" : [ "weatherapp" ],
+  "companies" : [ ],
+  "email" : "sarthak@apigee.com",
+  "developerId" : "7PmmPJBbVAo7S6A6",
+  "firstName" : "sarthak@apigee.com",
+  "lastName" : "sarthak@apigee.com",
+  "userName" : "sarthak",
+  "organizationName" : "amer-partner10",
+  "status" : "active",
+  "attributes" : [ {
+    "name" : "MINT_COMPANY_ID"
+  }, {
+    "name" : "MINT_REGISTRATION_ID"
+  }, {
+    "name" : "MINT_TAX_EXEMPT_AUTH_NO"
+  }, {
+    "name" : "MINT_DEVELOPER_LEGAL_NAME",
+    "value" : "Sarthak, Inc."
+  }, {
+    "name" : "MINT_DEVELOPER_TYPE",
+    "value" : "UNTRUSTED"
+  }, {
+    "name" : "MINT_BILLING_TYPE",
+    "value" : "PREPAID"
+  }, {
+    "name" : "MINT_DEVELOPER_PHONE",
+    "value" : "1-800-sarthak"
+  }, {
+    "name" : "MINT_DEVELOPER_ADDRESS",
+    "value" : "{\"address1\":\"12345 Main Street\",\"address2\":\"\",\"city\":\"Schenectady\",\"country\":\"US\",\"isPrimary\":\"true\",\"state\":\"New York\",\"zip\":\"12345\"}"
+  }, {
+    "name" : "MINT_ROLES",
+    "value" : "[[\"Developer\"]]"
+  } ],
+  "createdAt" : 1454025411728,
+  "createdBy" : "sandeep@apigee.com",
+  "lastModifiedAt" : 1454025411728,
+  "lastModifiedBy" : "sandeep@apigee.com"
+}

@@ -1,0 +1,18 @@
+{
+  "apiResources" : [ ],
+  "approvalType" : "auto",
+  "attributes" : [ ],
+  "createdAt" : 1454025255522,
+  "createdBy" : "sandeep@apigee.com",
+  "description" : "",
+  "displayName" : "SilverPartners",
+  "environments" : [ "test", "prod" ],
+  "lastModifiedAt" : 1454025255522,
+  "lastModifiedBy" : "sandeep@apigee.com",
+  "name" : "SilverPartners",
+  "proxies" : [ "catalogs", "oauth2.0", "stores", "products" ],
+  "quota" : "2",
+  "quotaInterval" : "1",
+  "quotaTimeUnit" : "minute",
+  "scopes" : [ "" ]
+}
